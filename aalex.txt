@@ -1,0 +1,3 @@
+print("pasar el ciclo")
+
+hoy es lunes de la semana
